@@ -3,6 +3,9 @@
 ## What is this?
 Use Navic@t 15 Premium on Ubuntu & PlayOnLinux
 
+# Error glib2
+https://www.maoxuner.cn/post/2021/09/navicat-with-glib2-70/
+
 ## How to Use
 
 1. Download navicat from official website.
